@@ -44,13 +44,22 @@
     ],
     "uniqCompNum": 0,
     "versionPublish": "5.6.11",
-    "imageResize": true
+    "imageResize": true,
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/35-20220813002542-128x128_1.png",
+    "mbrsiteDomain": "z2bvf7bpxs",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Home/TannuPortfolio",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
